@@ -1,0 +1,50 @@
+com.doku.decryptaes.app-transition-1.4.1-0 /Users/dokuit/.gradle/caches/transforms-3/02bb045d85d782f666ccc7ed25897fbe/transformed/transition-1.4.1/res
+com.doku.decryptaes.app-lifecycle-livedata-core-ktx-2.6.2-1 /Users/dokuit/.gradle/caches/transforms-3/0d4de638839e21ee16ccfd6fa883e979/transformed/lifecycle-livedata-core-ktx-2.6.2/res
+com.doku.decryptaes.app-navigation-common-ktx-2.7.7-2 /Users/dokuit/.gradle/caches/transforms-3/154b12eef06f1e5182f1d17c749047a7/transformed/navigation-common-ktx-2.7.7/res
+com.doku.decryptaes.app-navigation-ui-ktx-2.7.7-3 /Users/dokuit/.gradle/caches/transforms-3/1683507c551cf85c4e638018a152ed80/transformed/navigation-ui-ktx-2.7.7/res
+com.doku.decryptaes.app-lifecycle-livedata-2.6.2-4 /Users/dokuit/.gradle/caches/transforms-3/21ad11d51109e64610870668faef91a9/transformed/lifecycle-livedata-2.6.2/res
+com.doku.decryptaes.app-lifecycle-viewmodel-ktx-2.6.2-5 /Users/dokuit/.gradle/caches/transforms-3/308c9b70b07e166a0b7654c16fd1220b/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.doku.decryptaes.app-coordinatorlayout-1.1.0-6 /Users/dokuit/.gradle/caches/transforms-3/36b058c516c92d03854576a80def064c/transformed/coordinatorlayout-1.1.0/res
+com.doku.decryptaes.app-fragment-1.6.2-7 /Users/dokuit/.gradle/caches/transforms-3/4ed701611309a5d1be1e05de549ce3bc/transformed/fragment-1.6.2/res
+com.doku.decryptaes.app-navigation-runtime-ktx-2.7.7-8 /Users/dokuit/.gradle/caches/transforms-3/59ae7e0479e259a9f36f666071ee4386/transformed/navigation-runtime-ktx-2.7.7/res
+com.doku.decryptaes.app-savedstate-ktx-1.2.1-9 /Users/dokuit/.gradle/caches/transforms-3/6c44447bf888e94e79fd12e965083c92/transformed/savedstate-ktx-1.2.1/res
+com.doku.decryptaes.app-lifecycle-livedata-core-2.6.2-10 /Users/dokuit/.gradle/caches/transforms-3/6c6a5dae961865819d0bcabc1adcbb76/transformed/lifecycle-livedata-core-2.6.2/res
+com.doku.decryptaes.app-savedstate-1.2.1-11 /Users/dokuit/.gradle/caches/transforms-3/6e667ddf5bfde5e8640ad952ac08c2cc/transformed/savedstate-1.2.1/res
+com.doku.decryptaes.app-activity-1.8.0-12 /Users/dokuit/.gradle/caches/transforms-3/6eb3e6b436d74e587db8bc554db99fbc/transformed/activity-1.8.0/res
+com.doku.decryptaes.app-material-1.11.0-13 /Users/dokuit/.gradle/caches/transforms-3/7164d9b0ed632e6b8d1db10981773ff5/transformed/material-1.11.0/res
+com.doku.decryptaes.app-core-1.12.0-14 /Users/dokuit/.gradle/caches/transforms-3/78dcbb7886a7084f048896d4d349572e/transformed/core-1.12.0/res
+com.doku.decryptaes.app-drawerlayout-1.1.1-15 /Users/dokuit/.gradle/caches/transforms-3/7d86e8ade4e087a8ad95c627e05dc7b4/transformed/drawerlayout-1.1.1/res
+com.doku.decryptaes.app-navigation-ui-2.7.7-16 /Users/dokuit/.gradle/caches/transforms-3/82176fcacf98b09839d0e1fdcc2d5e1b/transformed/navigation-ui-2.7.7/res
+com.doku.decryptaes.app-activity-ktx-1.8.0-17 /Users/dokuit/.gradle/caches/transforms-3/83f56009a9fc216667808fc57510ca0b/transformed/activity-ktx-1.8.0/res
+com.doku.decryptaes.app-core-runtime-2.2.0-18 /Users/dokuit/.gradle/caches/transforms-3/887830a58f41d5340d9c8d7904d9bc71/transformed/core-runtime-2.2.0/res
+com.doku.decryptaes.app-recyclerview-1.1.0-19 /Users/dokuit/.gradle/caches/transforms-3/89c7d98d723ba55fdac974847340c7d8/transformed/recyclerview-1.1.0/res
+com.doku.decryptaes.app-navigation-fragment-2.7.7-20 /Users/dokuit/.gradle/caches/transforms-3/8b3bec60dcbe1772329e3fef64160cee/transformed/navigation-fragment-2.7.7/res
+com.doku.decryptaes.app-annotation-experimental-1.3.0-21 /Users/dokuit/.gradle/caches/transforms-3/8ef30cd8458785a6f5c6520a3378e97c/transformed/annotation-experimental-1.3.0/res
+com.doku.decryptaes.app-navigation-runtime-2.7.7-22 /Users/dokuit/.gradle/caches/transforms-3/96daa5cad8335259ba060cf69be44ba2/transformed/navigation-runtime-2.7.7/res
+com.doku.decryptaes.app-lifecycle-viewmodel-2.6.2-23 /Users/dokuit/.gradle/caches/transforms-3/9a49ec82e29fd776b12af32e31012555/transformed/lifecycle-viewmodel-2.6.2/res
+com.doku.decryptaes.app-startup-runtime-1.1.1-24 /Users/dokuit/.gradle/caches/transforms-3/a00164b5ae1d9d32901118f40dc9524f/transformed/startup-runtime-1.1.1/res
+com.doku.decryptaes.app-emoji2-views-helper-1.2.0-25 /Users/dokuit/.gradle/caches/transforms-3/b034c1a79e3750cb54f0def35aac43c2/transformed/emoji2-views-helper-1.2.0/res
+com.doku.decryptaes.app-lifecycle-process-2.6.2-26 /Users/dokuit/.gradle/caches/transforms-3/b1466cc17a6dcdf69625081e524827b8/transformed/lifecycle-process-2.6.2/res
+com.doku.decryptaes.app-cardview-1.0.0-27 /Users/dokuit/.gradle/caches/transforms-3/b9f176b342dee6e081465f93e6622c68/transformed/cardview-1.0.0/res
+com.doku.decryptaes.app-core-ktx-1.12.0-28 /Users/dokuit/.gradle/caches/transforms-3/c36889c127d84c37d45a603c125a99e4/transformed/core-ktx-1.12.0/res
+com.doku.decryptaes.app-profileinstaller-1.3.0-29 /Users/dokuit/.gradle/caches/transforms-3/c70309ac4172ba14e74f435e091b28c9/transformed/profileinstaller-1.3.0/res
+com.doku.decryptaes.app-lifecycle-viewmodel-savedstate-2.6.2-30 /Users/dokuit/.gradle/caches/transforms-3/c81784400fb999f34a851f282896b379/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.doku.decryptaes.app-constraintlayout-2.1.4-31 /Users/dokuit/.gradle/caches/transforms-3/c8da0b00cb3dee3582f03f3d60b1ce57/transformed/constraintlayout-2.1.4/res
+com.doku.decryptaes.app-window-1.0.0-32 /Users/dokuit/.gradle/caches/transforms-3/d25d4aa5fb1a0f0d9ce1a49ad4b79938/transformed/window-1.0.0/res
+com.doku.decryptaes.app-emoji2-1.2.0-33 /Users/dokuit/.gradle/caches/transforms-3/d39a1a71cb92445ad924395f05b3b45a/transformed/emoji2-1.2.0/res
+com.doku.decryptaes.app-lifecycle-runtime-ktx-2.6.2-34 /Users/dokuit/.gradle/caches/transforms-3/d5275cbbf18dccd5b955967a36b41f57/transformed/lifecycle-runtime-ktx-2.6.2/res
+com.doku.decryptaes.app-appcompat-resources-1.6.1-35 /Users/dokuit/.gradle/caches/transforms-3/de7d012e4e098b38a46ce826c7deed69/transformed/appcompat-resources-1.6.1/res
+com.doku.decryptaes.app-navigation-fragment-ktx-2.7.7-36 /Users/dokuit/.gradle/caches/transforms-3/e39993d4f27c5e177cb8a7c9342157cb/transformed/navigation-fragment-ktx-2.7.7/res
+com.doku.decryptaes.app-lifecycle-runtime-2.6.2-37 /Users/dokuit/.gradle/caches/transforms-3/e54ae2af55e4fbeb8eeceab912d45486/transformed/lifecycle-runtime-2.6.2/res
+com.doku.decryptaes.app-appcompat-1.6.1-38 /Users/dokuit/.gradle/caches/transforms-3/ea81018398a5eb9877f0ba4a04db551f/transformed/appcompat-1.6.1/res
+com.doku.decryptaes.app-slidingpanelayout-1.2.0-39 /Users/dokuit/.gradle/caches/transforms-3/efae2d8dcf2fbf617c33de777949e179/transformed/slidingpanelayout-1.2.0/res
+com.doku.decryptaes.app-viewpager2-1.0.0-40 /Users/dokuit/.gradle/caches/transforms-3/f27cc9987ff57f135654f4a6a31b5537/transformed/viewpager2-1.0.0/res
+com.doku.decryptaes.app-navigation-common-2.7.7-41 /Users/dokuit/.gradle/caches/transforms-3/f903fd95fc56d015b13b643477c420ef/transformed/navigation-common-2.7.7/res
+com.doku.decryptaes.app-fragment-ktx-1.6.2-42 /Users/dokuit/.gradle/caches/transforms-3/fd219d176ef77e8bbd4dfab27f5576a4/transformed/fragment-ktx-1.6.2/res
+com.doku.decryptaes.app-pngs-43 /Users/dokuit/Documents/Base Project/app/build/generated/res/pngs/debug
+com.doku.decryptaes.app-resValues-44 /Users/dokuit/Documents/Base Project/app/build/generated/res/resValues/debug
+com.doku.decryptaes.app-packageDebugResources-45 /Users/dokuit/Documents/Base Project/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.doku.decryptaes.app-packageDebugResources-46 /Users/dokuit/Documents/Base Project/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.doku.decryptaes.app-merged_res-47 /Users/dokuit/Documents/Base Project/app/build/intermediates/merged_res/debug
+com.doku.decryptaes.app-debug-48 /Users/dokuit/Documents/Base Project/app/src/debug/res
+com.doku.decryptaes.app-main-49 /Users/dokuit/Documents/Base Project/app/src/main/res
