@@ -36,8 +36,11 @@ class MainActivity : AppCompatActivity() {
 
         var encryptor = AESEncryptor()
 
-        val decryptedValue: String? =encryptor.decryptWithAES("72a775b42904ed89ca137de37e0c435f47f58f8ecc706b8e1831eed7dc6e398f|a2eaee6c-fb0f-45dd-a9d7-ec2926e80f0b", "aLi1q1ZbO87aypl0CLxAt8Qx/7cbBgGkq6VyT1m/L3MFtja9y13I0OdKIerNqZUi")
-        println("Data Decrypted : " +decryptedValue)
+        val encryptedValue: String? =encryptor.encrypt("1202a51a-d254-44c8-9f3f-f7ab1ef87c99", "72a775b42904ed89ca137de37e0c435f47f58f8ecc706b8e1831eed7dc6e398f|123")
+        println("Data encrypted : " +encryptedValue)
+
+        val decryptedValue: String? =encryptor.decrypt("72a775b42904ed89ca137de37e0c435f47f58f8ecc706b8e1831eed7dc6e398f|123", encryptedValue)
+        println("Data decrypted : " +decryptedValue)
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
